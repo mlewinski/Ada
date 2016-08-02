@@ -9,7 +9,7 @@ RN
 RV NO_IO
 RV NO_IMPLEMENTATION_PRAGMAS
 
-U helloworld%b		helloworld.adb		e538354c NE OO SU
+U helloworld%b		helloworld.adb		6beae788 NE OO SU IU
 W ada%s			ada.ads			ada.ali
 W ada.text_io%s		a-textio.adb		a-textio.ali
 
@@ -20,7 +20,7 @@ D a-stream.ads		20160516092928 119b8fb3 ada.streams%s
 D a-tags.ads		20160516092932 01f5e3ef ada.tags%s
 D a-textio.ads		20160516092932 386df5d4 ada.text_io%s
 D a-unccon.ads		20160516092930 f9eb8f06 ada.unchecked_conversion%s
-D helloworld.adb	20160802201754 dd55c098 helloworld%b
+D helloworld.adb	20160802202604 5387125c helloworld%b
 D interfac.ads		20160516092928 5ab55268 interfaces%s
 D i-cstrea.ads		20160516092926 e53d8b8e interfaces.c_streams%s
 D system.ads		20160516092930 2da59038 system%s
@@ -36,11 +36,12 @@ D s-traent.ads		20160516092928 005bf670 system.traceback_entries%s
 D s-unstyp.ads		20160516092930 34867c83 system.unsigned_types%s
 D s-wchcon.ads		20160516092930 1b7d22d2 system.wch_con%s
 X 1 ada.ads
-16K9*Ada 19e8 8|1r6 5r4 6r4 7r4 8r4
+16K9*Ada 19e8 8|1r6 4r23
 X 6 a-textio.ads
-49K13*Text_IO 471e16 8|1w10 5r8 6r8 7r8 8r8
-242U14*Put 8|7s16
-263U14*Put_Line 8|5s16 6s16 8s16
+49K13*Text_IO 471e16 8|1w10 4r27
+242U14*Put 8|8s7
+263U14*Put_Line 8|6s7 7s7 9s7
 X 8 helloworld.adb
-3U11*HelloWorld 3b11 9l5 9t15
+3U11*HelloWorld 3b11 10l5 10t15
+4K12 IO=4:27 6r4 7r4 8r4 9r4
 
