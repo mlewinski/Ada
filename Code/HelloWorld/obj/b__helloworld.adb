@@ -218,9 +218,9 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
-   --   D:\Projects\ADA\HelloWorld\obj\helloworld.o
-   --   -LD:\Projects\ADA\HelloWorld\obj\
-   --   -LD:\Projects\ADA\HelloWorld\obj\
+   --   D:\Projects\ADA\Ada\Code\HelloWorld\obj\helloworld.o
+   --   -LD:\Projects\ADA\Ada\Code\HelloWorld\obj\
+   --   -LD:\Projects\ADA\Ada\Code\HelloWorld\obj\
    --   -LC:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/
    --   -static
    --   -lgnat
