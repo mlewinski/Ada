@@ -36,10 +36,23 @@ begin
    Counter := 1;
    loop
       Put_Line(Integer'Image(Counter));
-      if Counter = 10 then
-         return;
+      if Counter = 10 then -- also suitable exit when Counter = 10;
+         exit;
       end if;
       Counter := Counter + 1;
+   end loop;
+
+   Counter := 1;
+
+   While_Loop:
+   while Counter <= 10 loop
+      Put_Line(Integer'Image(Counter));
+      Counter := Counter+1;
+      exit While_Loop when Counter = 5;
+   end loop While_Loop;
+
+   for I in Integer range 1..10 loop -- same as for I in 1..10 loop
+      Put_Line(Integer'Image(I));
    end loop;
 
 
