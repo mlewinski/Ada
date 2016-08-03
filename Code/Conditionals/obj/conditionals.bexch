@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__conditionals.o
+[PROJECT FILES]
+D:\Projects\ADA\Ada\Code\Conditionals\conditionals.gpr
+20160803110622
+[BOUND OBJECT FILES]
+D:\Projects\ADA\Ada\Code\Conditionals\obj\conditionals.o
+[GENERATED SOURCE FILES]
+b__conditionals.ads
+b__conditionals.adb
+b__conditionals.ali
+[RESULTING OPTIONS]
+-LD:\Projects\ADA\Ada\Code\Conditionals\obj\
+-LD:\Projects\ADA\Ada\Code\Conditionals\obj\
+-LC:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/
+-static
+-static-libgcc
+C:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/libgnat.a
+-Wl,--stack=0x2000000
