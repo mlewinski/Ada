@@ -3,3 +3,11 @@
 
 # Ada Library Information
 *.ali
+
+# Executable file
+*.exe
+
+*.bexch
+*.db
+*.db-shm
+*.db-wal
